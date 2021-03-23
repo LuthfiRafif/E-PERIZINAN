@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_perizinan"
+        android:icon="@drawable/ic_perizinan"
+        android:title="@string/perizinan"/>
+
+    <item
+        android:id="@+id/nav_tracking"
+        android:icon="@drawable/ic_manage_search"
+        android:title="@string/tracking_berkas"/>
+
+    <item
+        android:id="@+id/nav_graphic"
+        android:icon="@drawable/ic_graphic"
+        android:title="@string/grafik"/>
+
+    <item
+        android:id="@+id/nav_user"
+        android:icon="@drawable/ic_person"
+        android:title="@string/akun"/>
+</menu>

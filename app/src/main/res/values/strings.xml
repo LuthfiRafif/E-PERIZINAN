@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">E-PERIZINAN DPMPTSP KALSEL</string>
+    <string name="pmn">Pemohon</string>
+
+    <string name="nama_pengguna">nama pengguna</string>
+    <string name="kata_sandi">kata sandi</string>
+    <string name="masuk">masuk</string>
+    <string name="signup">Belum punya akun ? DAFTAR</string>
+
+    <string name="registrasi">Registrasi</string>
+    <string name="daftar">daftar</string>
+    <string name="nama_lengkap">nama lengkap</string>
+    <string name="tanggal_lahir">tanggal lahir</string>
+    <string name="kewarganegaraan">kewarganegaraan</string>
+    <string name="alamat">alamat</string>
+    <string name="provinsi">provinsi</string>
+    <string name="sudah_punya_akun_masuk">Sudah punya akun?MASUK</string>
+
+    <string name="perizinan">Perizinan</string>
+    <string name="tracking_berkas">Tracking Berkas</string>
+    <string name="grafik">Grafik</string>
+    <string name="pengaduan">Pengaduan</string>
+    <string name="akun">Akun</string>
+    <string name="tgl_lahir">tanggal Lahir</string>
+    <string name="Kewarganegaraan">kewarganegaraan</string>
+    <string name="simpan">simpan</string>
+    <string name="aplikasi">APLIKASI</string>
+    <string name="user">user</string>
+    <string name="submit">submit</string>
+
+    <string name="detail">
+        Surat Permohonan yang ditunjukan kepada Kepala DPMPTSP Provinsi Kalimantan Selatan, ditandatangani diatas materai dan diberi stempel;
+        Fotocopy Akta Pendirian Perusahaan disertai Pengesahan sebagai Badan Hukum Perseroan Terbatas (PT);
+        Rekomendasi dari Dinas Kesehatan Kab/Kota;
+        Fotocopy KTP Penanggungjawab dan Nomor Pokok Wajib Pajak (NPWP);
+        NIB;
+        Izin Lokasi;
+        Surat Pernyataan memiliki tenaga entimologi/tenaga kesehatan lingkungan dan tenaga terlatih;
+        Daftar Persediaan Bahan dan Peralatan Sesuai dengan ketentuan berlaku;
+        Keikutsertaan BPJS;
+        Surat Kuasa.
+    </string>
+
+    <string name="detail2">
+        Pemohon meminta informasi tentang perizinan dan mekanisme, nonperizinan kepada Petugas Front Office;
+        Petugas Front Office memberikan informasi dan penjelasan terkait perizinan dan nonperizinan yang diminta oleh pemohon;
+        Pemohon menyerahkan berkas permohonan perizinan/ nonperizinan kepada Petugas Front Office;
+        Petugas Front Office menerima berkas permohonan serta memeriksa kelengkapan persyaratan dengan menggunakan checklist. Apabila berkas tidak lengkap maka dikembalikan kepada pemohon, apabila berkas lengkap maka berkas diteruskan ke Pemroses Perizinan/ Nonperizinan dan pemohon diberikan tanda terima berkas;
+        DPMPTSP memproses Perizinan/ Nonperizinan;
+        DPMPTSP (Petugas Front Office) menyerahkan Surat Izin/ Non Izin atau Surat Penolakan Permohonan Perizinan/ Nonperizinan kepada pemohon; dan
+        Pemohon menerima Surat Izin/ Non Izin atau Surat Penolakan Permohonan Perizinan/ Nonperizinan dan menandatangani tanda terima berkas.
+    </string>
+</resources>

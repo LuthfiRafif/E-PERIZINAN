@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/lv_aplikasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo_pm"
+        android:layout_centerInParent="true"
+        android:layout_alignParentTop="true"
+        android:padding="30dp"/>
+
+    <LinearLayout
+        android:id="@+id/Ll_1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/lv_aplikasi"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Informasi Kontak"
+            android:textColor="@color/green"
+            android:textSize="20sp"
+            android:fontFamily="@font/poppinsbold"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_nm_instansi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Ll_1"
+        android:text="Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Provinsi Kalimantan Selatan"
+        android:fontFamily="@font/poppinsmedium"/>
+
+    <LinearLayout
+        android:layout_below="@id/tv_nm_instansi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_nm_instansi"
+        android:text="Jl. Bangun Praja, Kawasan Perkantoran Pemerintah Provinsi Kalimantan Selatan, Kel. Cempaka, Kec. Cempaka, Kota Banjarbaru, Kode Pos 70733"
+        android:fontFamily="@font/poppinsmedium"/>
+
+    <LinearLayout
+        android:layout_below="@id/tv_alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_telepon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_alamat"
+        android:text="0511 - 6749344"
+        android:fontFamily="@font/poppinsmedium"/>
+
+    <LinearLayout
+        android:layout_below="@id/tv_telepon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_telepon"
+        android:text="https://dpmptsp.kalselprov.go.id/"
+        android:fontFamily="@font/poppinsmedium"/>
+
+    <LinearLayout
+        android:layout_below="@id/tv_web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </LinearLayout>
+
+</RelativeLayout>
